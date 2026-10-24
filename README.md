@@ -26,7 +26,7 @@ This project focuses on manual functional testing of an existing Electricity Usa
 ## Test Documentation
 The Excel workbook contains 15 test cases, including test steps, test data, expected results, actual results, status, and remarks.
 
-**[View QA Test Cases and Execution Summary](./electricity_usage_report.xlsx)**
+ ## [Download QA Test Cases and Execution Summary](https://github.com/12bavithra/Electricity-Usage-Anomaly-Detector-QA/raw/refs/heads/main/electricity_usage_report.xlsx)
 
 ## Project Outcome
 Documented and checked 15 functional test scenarios covering CSV uploads, input validation, chart behavior, and anomaly alerts. Recorded the test results and organized the QA documentation for review.
